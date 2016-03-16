@@ -1,0 +1,13 @@
+{
+  "name": "navidonskis.com",
+  "version": "1.0.0",
+  "description": "navidonskis.com website on nodejs",
+  "author": "Donatas Navidonskis <donatas@navidonskis.com>",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
